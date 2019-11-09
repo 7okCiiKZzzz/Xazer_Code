@@ -319,5 +319,4 @@ message.guild.createRole({name: 'contenu', color: 'RANDOM'}).then(function (role
 
 
 
-
-  client.login(process.env.TOKEN)
+client.login('...');
